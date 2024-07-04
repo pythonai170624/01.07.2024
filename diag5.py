@@ -5,6 +5,6 @@ print(x);
 y: int = input("what is y?");
 print(y);
 
-print(x, '+', y, '=', x + y); # why ??
+print(x, '+', y, '=', x + y); ## why ??
 
 ## End
